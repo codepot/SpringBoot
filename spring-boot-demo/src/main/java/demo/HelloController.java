@@ -10,5 +10,6 @@ public class HelloController {
     public String index() {
         return "Welcome! Greetings from Spring Boot!";
     }
+    
 
 }
